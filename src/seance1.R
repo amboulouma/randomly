@@ -3,6 +3,7 @@ install.packages('randtoolbox')
 
 library(randtoolbox)
 source('generateurs.R')
+source('RANDU.R')
 
 sMT <- 2504
 Nsimu <- 1000
